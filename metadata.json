@@ -1,0 +1,6 @@
+{
+  "name": "Present Simple Academy",
+  "description": "Interactive A1-A2 English grammar learning platform for mastering the Present Simple tense in Uzbek, Russian, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
